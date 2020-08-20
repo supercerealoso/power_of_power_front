@@ -1,2 +1,1 @@
-# remove /index.html from all urls
-* :splat/index.html 200
+/comic/*.html comic/:splat 301!
