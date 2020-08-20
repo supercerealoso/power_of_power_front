@@ -1,1 +1,2 @@
-/comics/*  /comics/:splat/index.html  200
+# remove /index.html from all urls
+* :splat/index.html 200
